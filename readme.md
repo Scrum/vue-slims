@@ -1,2 +1,2 @@
 # vue-slims
-> simple vanilla framevork
+> simple vanilla framework
